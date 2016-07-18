@@ -1,0 +1,10 @@
+C:\Users\Владислав\Desktop\Binary Studio\UnitTestingHomework-master\Logic\bin\Debug\Logic.dll
+C:\Users\Владислав\Desktop\Binary Studio\UnitTestingHomework-master\Logic\bin\Debug\Logic.pdb
+C:\Users\Владислав\Desktop\Binary Studio\UnitTestingHomework-master\Logic\bin\Debug\nunit.framework.dll
+C:\Users\Владислав\Desktop\Binary Studio\UnitTestingHomework-master\Logic\bin\Debug\nunit.framework.xml
+C:\Users\Владислав\Desktop\Binary Studio\UnitTestingHomework-master\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+C:\Users\Владислав\Desktop\Binary Studio\UnitTestingHomework-master\Logic\obj\Debug\Logic.dll
+C:\Users\Владислав\Desktop\Binary Studio\UnitTestingHomework-master\Logic\obj\Debug\Logic.pdb
+C:\Users\Владислав\Desktop\Binary Studio\UnitTestingHomework-master\Logic\bin\Debug\FakeItEasy.dll
+C:\Users\Владислав\Desktop\Binary Studio\UnitTestingHomework-master\Logic\bin\Debug\FakeItEasy.pdb
+C:\Users\Владислав\Desktop\Binary Studio\UnitTestingHomework-master\Logic\bin\Debug\FakeItEasy.xml
